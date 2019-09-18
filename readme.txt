@@ -1,1 +1,1 @@
-This is all about algorithms
+They are all about algorithms
